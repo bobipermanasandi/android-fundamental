@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="username">Username</string>
+    <string name="search_user">Search User</string>
+    <string name="fullName">Fullname</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="following">%d Following</string>
+    <string name="followers">%d Followers</string>
+    <string name="bio">Bio</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="button_favorite">Button Favorite</string>
+    <string name="add_favorite_user">Add User favorite</string>
+    <string name="remove_favorite_user">Remove User favorite</string>
+</resources>
